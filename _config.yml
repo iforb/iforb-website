@@ -6,7 +6,7 @@ title: iforb
 email: l.sanfelici@iforb.it
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 landing_tile : "ideas for business"
-landing_description : "we realize the ideas of your customers"
+landing_description : "we build the ideas of your customers"
 
 # Team names, titles and social links
 people:
